@@ -1,5 +1,6 @@
 import React, { Component } from "react";
 import Game from "./components/Game";
+import Image from './components/Image';
 class App extends Component {
   state = {
     image: [
