@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "image": "/assets/images/12ofcups1.jpg",
+    "clicked": false
+  },
+  {
+    "id": 2,
+    "image": "/assets/images/fourofwands2.jpg",
+    "clicked": false
+  },
+  {
+    "id": 3,
+    "image": "/assets/images/hangedman3.jpg",
+    "clicked": false
+  },
+  {
+    "id": 4,
+    "image": "/assets/images/kingofswords4.jpg",
+    "clicked": false
+  },
+  {
+    "id": 5,
+    "image": "/assets/images/pafeofwands5.png",
+    "clicked": false
+  },
+  {
+    "id": 6,
+    "image": "/assets/images/queenofcups6.jpg",
+    "clicked": false
+  },
+  {
+    "id": 7,
+    "image": "/assets/images/The-High-Priestess7.jpg",
+    "clicked": false
+  },
+  {
+    "id": 8,
+    "image": "/assets/images/theempress8.jpg",
+    "clicked": false
+  },
+  {
+    "id": 9,
+    "image": "/assets/images/threeofcups9.jpg",
+    "clicked": false
+  },
+  {
+    "id": 10,
+    "image": "/assets/images/threeoffire10.jpg",
+    "clicked": false
+  },
+  {
+    "id": 11,
+    "image": "/assets/images/two-of-cups11.png",
+    "clicked": false
+  },
+  {
+    "id": 12,
+    "image": "/assets/images/aceofcups12.jpg",
+    "clicked": false
+  }
+]
