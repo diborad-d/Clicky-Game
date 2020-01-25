@@ -5,7 +5,10 @@ function Footer() {
   return (
     <footer className="footer">
       <div className="bottom">
-        Clicky Game! <img alt="react" src="assets/images/react.svg" />
+        Tarot Clicky Game!
+        <h3>
+          Github Repo: <a href="https://github.com/diborad-d/Clicky-Game" />
+        </h3>
       </div>
     </footer>
   );
