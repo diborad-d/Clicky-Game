@@ -2,7 +2,7 @@
   "name": "clicky-game",
   "version": "0.1.0",
   "engines": {
-    "node": "*"
+    "node": "12.9.1"
   },
   "private": true,
   "dependencies": {
