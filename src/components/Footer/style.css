@@ -1,6 +1,5 @@
 .footer {
-  background: 
-  #6956AF;
+  background: rgb(146, 145, 150);
   height: 100px;
   position: relative;
   color: white;
@@ -12,9 +11,10 @@
   bottom: 0;
   left: 0;
   right: 0;
-  background:#5138A1;
+  background: rgb(146, 145, 150);
   padding: 8px;
   font-weight: 600;
+  
 }
 
 .footer > .bottom > img {
@@ -22,4 +22,5 @@
   position: relative;
   top: 3px;
   left: 2px;
+  
 }

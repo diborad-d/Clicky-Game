@@ -7,7 +7,7 @@ function Footer() {
       <div className="bottom">
         Tarot Clicky Game!
         <h3>
-          Github Repo: <a href="https://github.com/diborad-d/Clicky-Game" />
+          <a href="https://github.com/diborad-d/Clicky-Game"> Github Repo</a>
         </h3>
       </div>
     </footer>
